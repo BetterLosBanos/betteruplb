@@ -22,8 +22,8 @@ export default function BarangaysIndex() {
   return (
     <div className='animate-in fade-in mx-auto max-w-7xl space-y-6 duration-500'>
       <ModuleHeader
-        title='Local Barangays'
-        description={`${filtered.length} component barangays of the Municipality of Los Baños.`}
+        title='Campus Area Barangays'
+        description={`${filtered.length} barangays around the UPLB campus in Los Baños, Laguna.`}
       >
         <SearchInput
           value={search}

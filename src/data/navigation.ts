@@ -7,95 +7,86 @@ interface Category {
   slug: string;
 }
 
+const serviceNav: NavigationItem = {
+  label: 'Services',
+  href: '/services',
+  children: (serviceCategories.categories as Category[]).map(category => ({
+    label: category.name,
+    href: `/services?category=${category.slug}`,
+  })),
+};
+
+const campusNav: NavigationItem = {
+  label: 'Campus',
+  href: '/government',
+  children: [
+    { label: 'University Officials', href: '/government/elected-officials' },
+    { label: 'Offices & Units', href: '/government/departments' },
+    { label: 'Campus Area Barangays', href: '/government/barangays' },
+  ],
+};
+
+const statisticsNav: NavigationItem = {
+  label: 'Campus Data',
+  href: '/statistics',
+  children: [
+    { label: 'Demographics', href: '/statistics' },
+    { label: 'Competitiveness', href: '/statistics/competitiveness' },
+  ],
+};
+
+const transparencyNav: NavigationItem = {
+  label: 'Transparency',
+  href: '/transparency',
+  children: [
+    { label: 'Financial Reports', href: '/transparency/financial' },
+    { label: 'Procurement', href: '/transparency/procurement' },
+    { label: 'Infrastructure', href: '/transparency/infrastructure' },
+  ],
+};
+
 export const mainNavigation: NavigationItem[] = [
-  {
-    label: 'Services',
-    href: '/services',
-    children: (serviceCategories.categories as Category[]).map(category => ({
-      label: category.name,
-      href: `/services?category=${category.slug}`,
-    })),
-  },
-  {
-    label: 'Government',
-    href: '/government',
-    children: [
-      { label: 'Elected Officials', href: '/government/elected-officials' },
-      { label: 'Departments', href: '/government/departments' },
-      { label: 'Barangays', href: '/government/barangays' },
-    ],
-  },
-  {
-    label: 'Statistics',
-    href: '/statistics',
-    children: [
-      { label: 'Demographics', href: '/statistics' },
-      { label: 'Competitiveness', href: '/statistics/competitiveness' },
-      { label: 'Municipal Income', href: '/statistics/municipal-income' },
-    ],
-  },
-  {
-    label: 'OpenLGU',
-    href: '/openlgu',
-    children: [
-      { label: 'Ordinances', href: '/openlgu?type=ordinance' },
-      { label: 'Resolutions', href: '/openlgu?type=resolution' },
-      { label: 'Executive Orders', href: '/openlgu?type=executive_order' },
-    ],
-  },
-  {
-    label: 'Transparency',
-    href: '/transparency',
-    children: [
-      { label: 'Financial Reports', href: '/transparency/financial' },
-      {
-        label: 'Procurement',
-        href: '/transparency/procurement',
-      },
-      {
-        label: 'DPWH Projects',
-        href: '/transparency/infrastructure',
-      },
-    ],
-  },
+  serviceNav,
+  campusNav,
+  ...(config.features.statistics ? [statisticsNav] : []),
+  ...(config.features.transparency ? [transparencyNav] : []),
 ];
 
 export const footerNavigation = {
-  // Brand Section (Matches the Solano/Bacolod mission-style text)
   brand: {
     title: config.portal.name,
-    description: `An open-source civic tech initiative making government information and municipal services accessible for the people of ${config.lgu.name}.`,
+    description: `An open-source initiative making university services and campus information accessible for the ${config.lgu.name} community.`,
     cost: `Cost to the People of ${config.lgu.fullName} = ₱0`,
   },
 
   mainSections: [
     {
-      title: 'Local Services',
+      title: 'University Services',
       links: [
         { label: 'All Services', href: '/services' },
         {
-          label: 'Business & Licensing',
-          href: '/services?category=business-licensing',
+          label: 'Certificates & Records',
+          href: '/services?category=certificates-vital-records',
         },
         {
           label: 'Health & Wellness',
           href: '/services?category=health-wellness',
         },
-        { label: 'Social Welfare', href: '/services?category=social-services' },
         {
-          label: 'Agriculture & Veterinary',
-          href: '/services?category=agriculture-veterinary',
+          label: 'Education & Scholarship',
+          href: '/services?category=education-scholarship',
         },
       ],
     },
     {
-      title: 'Local Government',
+      title: 'Campus',
       links: [
-        { label: 'Elected Officials', href: '/government/elected-officials' },
-        { label: 'Departments', href: '/government/departments' },
-        { label: 'Barangay Directory', href: '/government/barangays' },
-        { label: 'OpenLGU Portal', href: '/openlgu' },
-        { label: 'Transparency', href: '/transparency/financial' },
+        { label: 'University Officials', href: '/government/elected-officials' },
+        { label: 'Offices & Units', href: '/government/departments' },
+        { label: 'Campus Area Barangays', href: '/government/barangays' },
+        ...(config.features.transparency
+          ? [{ label: 'Transparency', href: '/transparency' }]
+          : []),
       ],
     },
     {
@@ -112,23 +103,8 @@ export const footerNavigation = {
           target: '_blank',
         },
         {
-          label: 'Petitions PH',
-          href: 'https://petition.ph',
-          target: '_blank',
-        },
-        {
-          label: 'SALN Tracker',
-          href: 'https://saln.bettergov.ph',
-          target: '_blank',
-        },
-        {
-          label: 'Budget Tracker',
-          href: 'https://budget.bettergov.ph',
-          target: '_blank',
-        },
-        {
-          label: 'Philgeps Tracker',
-          href: 'https://philgeps.bettergov.ph',
+          label: 'BetterLB',
+          href: 'https://betterlb.org',
           target: '_blank',
         },
       ],
@@ -137,15 +113,25 @@ export const footerNavigation = {
       title: 'Resources',
       links: [
         {
-          label: `${config.lgu.name} Gov.ph`,
+          label: 'UPLB.edu.ph',
           href: config.lgu.officialWebsite,
           target: '_blank',
         },
-        // {
-        //   label: 'Official Gazette',
-        //   href: 'https://www.officialgazette.gov.ph',
-        //   target: '_blank',
-        // },
+        {
+          label: 'uplb.tools',
+          href: 'https://uplbtools.me',
+          target: '_blank',
+        },
+        {
+          label: 'Room TBA',
+          href: 'https://room-tba.uplbtools.me',
+          target: '_blank',
+        },
+        {
+          label: 'Elbi GradeSim',
+          href: 'https://gradesim.uplbtools.me',
+          target: '_blank',
+        },
         {
           label: 'Freedom of Information',
           href: 'https://www.foi.gov.ph',
@@ -156,8 +142,6 @@ export const footerNavigation = {
           href: config.lgu.provinceWebsite,
           target: '_blank',
         },
-        // { label: 'Privacy Policy', href: '/privacy' },
-        // { label: 'Accessibility', href: '/accessibility' },
       ],
     },
   ],
@@ -169,12 +153,12 @@ export const footerNavigation = {
     },
     {
       label: 'Discord',
-      href: 'https://discord.gg/dA6tkU4FYS',
+      href: 'https://discord.gg/mHtThpN8bT',
       target: '_blank',
     },
     {
       label: 'GitHub',
-      href: 'https://github.com/BetterLosBanos/betterlb',
+      href: 'https://github.com/BetterLosBanos/betteruplb',
       target: '_blank',
     },
   ],

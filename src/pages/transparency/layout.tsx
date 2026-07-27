@@ -18,12 +18,12 @@ export default function TransparencyLayout() {
         isIndexPage ? (
           <PageHero
             title='Transparency Portal'
-            description='A community-led initiative to make Los Baños public data accessible, readable, and verifiable for every citizen.'
+            description='Public procurement, infrastructure, and financial information related to UPLB.'
           />
         ) : (
           <ModuleHeader
             title='Transparency Portal'
-            description='Track municipal funds, infrastructure projects, and procurement records.'
+            description='Track funds, infrastructure projects, and procurement records related to UPLB.'
           />
         )
       }

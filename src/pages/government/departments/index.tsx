@@ -27,8 +27,8 @@ export default function DepartmentsIndex() {
   return (
     <div className='animate-in fade-in mx-auto max-w-7xl space-y-6 duration-500'>
       <ModuleHeader
-        title='Municipal Departments'
-        description={`${filtered.length} active offices.`}
+        title='University Offices'
+        description={`${filtered.length} offices and units. Directory data is still being migrated for UPLB.`}
       >
         <SearchInput
           value={search}

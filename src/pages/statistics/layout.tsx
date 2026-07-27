@@ -10,8 +10,8 @@ export default function StatisticsLayout() {
     <div className='min-h-screen bg-slate-50'>
       <div className='container mx-auto px-4 py-8 md:py-12'>
         <PageHero
-          title='Municipal Statistics'
-          description='Data-driven insights into the population, economy, and performance of Los Baños.'
+          title='Campus Data'
+          description='Public demographic and performance data relevant to the UPLB community in Los Baños.'
         />
 
         <SidebarLayout sidebar={<StatisticsSidebar />} collapsible={true}>

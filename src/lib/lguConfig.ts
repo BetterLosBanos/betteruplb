@@ -8,7 +8,7 @@ export interface LGUConfig {
     districtEngineeringOffice?: string;
     region: string;
     regionCode: string;
-    type: 'municipality' | 'city';
+    type: 'municipality' | 'city' | 'university';
     logoPath: string;
     officialWebsite: string;
     provinceWebsite: string;

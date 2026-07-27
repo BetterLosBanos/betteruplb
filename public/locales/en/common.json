@@ -23,14 +23,16 @@
     "title": "Latest News & Updates"
   },
   "footer": {
-    "copyright": "2025 BetterLB.org - All content is public domain unless otherwise specified."
+    "copyright": "2025 UPLB Connect - All content is public domain unless otherwise specified."
   },
   "navbar": {
     "home": "Home",
     "services": "Services",
-    "statistics": "Statistics",
-    "government": "Government",
-    "legislative": "Legislative",
+    "campus": "Campus",
+    "campus data": "Campus Data",
+    "statistics": "Campus Data",
+    "government": "Campus",
+    "legislative": "Academic Senate",
     "transparency": "Transparency",
     "contact": "[REDACTED]",
     "legislation": "Legislation",
@@ -80,8 +82,8 @@
     "executiveDescription": "Led by the Chancellor, responsible for implementing university policies, programs, and guidelines.",
     "legislativeTitle": "Academic Senate",
     "legislativeDescription": "Composed of faculty representatives and administrators, responsible for academic policies and curriculum.",
-    "barangaysTitle": "Colleges and Dormitories",
-    "barangaysDescription": "Academic colleges and residential units within the university, led by deans and directors who manage academic and student services.",
+    "barangaysTitle": "Campus Area Barangays",
+    "barangaysDescription": "Barangays around the UPLB campus in Los Baños: useful for housing, commuting, and local services.",
     "departmentsTitle": "University Departments",
     "departmentsDescription" : "Administrative departments and offices responsible for specific areas of university operations.",
     "electedofficialsTitle": "University Officials",

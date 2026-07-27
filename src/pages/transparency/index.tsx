@@ -59,10 +59,9 @@ export default function TransparencyIndex() {
             Independent Grassroots Initiative
           </h3>
           <p className='text-sm leading-relaxed text-orange-800'>
-            Better LB is <strong>not an official government portal</strong>. We
-            are a volunteer movement mirroring public records to empower
-            citizens with the information they need to engage in local
-            governance.
+            UPLB Connect is <strong>not an official university portal</strong>.
+            Volunteers mirror public records so the campus community can find
+            procurement, infrastructure, and funding information in one place.
           </p>
         </div>
       </div>

@@ -6,74 +6,65 @@
 
 @theme {
   /* --- TYPOGRAPHY --- */
-  /* Keeping Figtree as it is close to Inter but distinct for your brand */
+  /* Figtree from @betterlb/ui: keep aligned with the shared library */
   --font-sans: 'Figtree', ui-sans-serif, system-ui, sans-serif;
 
-  /* --- SEMANTIC ALIASES --- */
-  /* These map your specific domain needs to the color palette below */
-  --color-brand-executive: var(--color-primary-600);
-  --color-brand-legislative: var(
-    --color-orange-600
-  ); /* Renamed to orange to match guide */
-  --color-status-verified: var(--color-emerald-600);
-  --color-status-audit: var(--color-gray-500);
+  /* --- SEMANTIC ALIASES → Kapwa --- */
+  --color-brand-executive: var(--color-kapwa-brand-600);
+  --color-brand-legislative: var(--color-kapwa-orange-600);
+  --color-status-verified: var(--color-kapwa-green-600);
+  --color-status-audit: var(--color-kapwa-text-disabled);
 
-  /* --- COLOR PALETTE (From Design Guide) --- */
+  /*
+   * Legacy primary-* / gray-* / slate-* classnames resolve to Kapwa.
+   * Prefer kapwa-* utilities in new code; these aliases keep older pages on-system.
+   */
+  --color-primary-50: var(--color-kapwa-brand-50);
+  --color-primary-100: var(--color-kapwa-brand-100);
+  --color-primary-200: var(--color-kapwa-brand-200);
+  --color-primary-300: var(--color-kapwa-brand-300);
+  --color-primary-400: var(--color-kapwa-brand-400);
+  --color-primary-500: var(--color-kapwa-brand-500);
+  --color-primary-600: var(--color-kapwa-brand-600);
+  --color-primary-700: var(--color-kapwa-brand-700);
+  --color-primary-800: var(--color-kapwa-brand-800);
+  --color-primary-900: var(--color-kapwa-brand-900);
+  --color-primary-950: var(--color-kapwa-brand-950);
 
-  /* Primary (Kapwa Blue) */
-  /* Based on 500: #3b82f6, 600: #2563eb */
-  --color-primary-50: #eff6ff;
-  --color-primary-100: #dbeafe;
-  --color-primary-200: #bfdbfe;
-  --color-primary-300: #93c5fd;
-  --color-primary-400: #60a5fa;
-  --color-primary-500: #3b82f6; /* Design Guide Standard */
-  --color-primary-600: #2563eb; /* Design Guide Standard */
-  --color-primary-700: #1d4ed8; /* Design Guide Standard */
-  --color-primary-800: #1e40af;
-  --color-primary-900: #1e3a8a;
-  --color-primary-950: #172554;
+  --color-secondary-50: var(--color-kapwa-orange-50);
+  --color-secondary-100: var(--color-kapwa-orange-100);
+  --color-secondary-200: var(--color-kapwa-orange-200);
+  --color-secondary-300: var(--color-kapwa-orange-300);
+  --color-secondary-400: var(--color-kapwa-orange-400);
+  --color-secondary-500: var(--color-kapwa-orange-500);
+  --color-secondary-600: var(--color-kapwa-orange-600);
+  --color-secondary-700: var(--color-kapwa-orange-700);
+  --color-secondary-800: var(--color-kapwa-orange-800);
+  --color-secondary-900: var(--color-kapwa-orange-900);
 
-  /* Secondary / CivicTech (Orange) */
-  /* Based on 500: #f97316, 600: #ea580c */
-  --color-secondary-50: #fff7ed;
-  --color-secondary-100: #ffedd5;
-  --color-secondary-200: #fed7aa;
-  --color-secondary-300: #fdba74;
-  --color-secondary-400: #fb923c;
-  --color-secondary-500: #f97316; /* Design Guide Standard */
-  --color-secondary-600: #ea580c; /* Design Guide Standard */
-  --color-secondary-700: #c2410c;
-  --color-secondary-800: #9a3412;
-  --color-secondary-900: #7c2d12;
+  --color-accent-50: var(--color-kapwa-purple-50);
+  --color-accent-100: var(--color-kapwa-purple-100);
+  --color-accent-200: var(--color-kapwa-purple-200);
+  --color-accent-300: var(--color-kapwa-purple-300);
+  --color-accent-400: var(--color-kapwa-purple-400);
+  --color-accent-500: var(--color-kapwa-purple-500);
+  --color-accent-600: var(--color-kapwa-purple-600);
+  --color-accent-700: var(--color-kapwa-purple-700);
+  --color-accent-800: var(--color-kapwa-purple-800);
+  --color-accent-900: var(--color-kapwa-purple-900);
 
-  /* Accent (Pink - From Guidelines) */
-  --color-accent-50: #fdf2f8;
-  --color-accent-100: #fce7f3;
-  --color-accent-200: #fbcfe8;
-  --color-accent-300: #f9a8d4;
-  --color-accent-400: #f472b6;
-  --color-accent-500: #ec4899; /* Design Guide Standard */
-  --color-accent-600: #db2777; /* Design Guide Standard */
-  --color-accent-700: #be185d;
-  --color-accent-800: #9d174d;
-  --color-accent-900: #831843;
+  --color-slate-50: var(--color-kapwa-bg-surface-raised);
+  --color-slate-100: var(--color-kapwa-bg-hover);
+  --color-slate-200: var(--color-kapwa-bg-active);
+  --color-slate-300: var(--color-kapwa-bg-disabled);
+  --color-slate-400: var(--color-kapwa-text-disabled);
+  --color-slate-500: var(--color-kapwa-text-disabled);
+  --color-slate-600: var(--color-kapwa-text-support);
+  --color-slate-700: var(--color-kapwa-text-support);
+  --color-slate-800: var(--color-kapwa-text-strong);
+  --color-slate-900: var(--color-kapwa-text-strong);
+  --color-slate-950: var(--color-kapwa-text-strong);
 
-  /* Neutral (Gray - Matching Design Guide) */
-  /* Replaces previous Slate to align with Guide's #111827/Gray-900 */
-  --color-slate-50: #f9fafb;
-  --color-slate-100: #f3f4f6;
-  --color-slate-200: #e5e7eb;
-  --color-slate-300: #d1d5db;
-  --color-slate-400: #9ca3af;
-  --color-slate-500: #6b7280; /* Design Guide Standard */
-  --color-slate-600: #4b5563;
-  --color-slate-700: #374151; /* Design Guide Standard */
-  --color-slate-800: #1f2937;
-  --color-slate-900: #111827; /* Design Guide Standard */
-  --color-slate-950: #030712;
-
-  /* Keep legacy gray mapping for compatibility */
   --color-gray-50: var(--color-slate-50);
   --color-gray-100: var(--color-slate-100);
   --color-gray-200: var(--color-slate-200);
@@ -86,18 +77,17 @@
   --color-gray-900: var(--color-slate-900);
   --color-gray-950: var(--color-slate-950);
 
-  /* Semantic Status Colors */
-  --color-success-50: #ecfdf5;
-  --color-success-500: #10b981;
-  --color-success-600: #059669;
+  --color-success-50: var(--color-kapwa-green-50);
+  --color-success-500: var(--color-kapwa-green-500);
+  --color-success-600: var(--color-kapwa-green-600);
 
-  --color-warning-50: #fffbeb;
-  --color-warning-500: #f59e0b;
-  --color-warning-600: #d97706;
+  --color-warning-50: var(--color-kapwa-orange-50);
+  --color-warning-500: var(--color-kapwa-orange-500);
+  --color-warning-600: var(--color-kapwa-orange-600);
 
-  --color-error-50: #fef2f2;
-  --color-error-500: #ef4444; /* Design Guide Red-500 */
-  --color-error-600: #dc2626;
+  --color-error-50: var(--color-kapwa-red-50);
+  --color-error-500: var(--color-kapwa-red-500);
+  --color-error-600: var(--color-kapwa-red-600);
 
   /* --- SHADOWS --- */
   --shadow-xs: 0 1px 2px 0 rgb(0 0 0 / 0.05);

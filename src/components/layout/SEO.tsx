@@ -30,7 +30,7 @@ interface SEOProps {
 export default function SEO({
   title,
   description,
-  ogImage = '/logos/png/betterlb-white.jpg',
+  ogImage = '/logos/svg/uplb-connect-icon.svg',
   ogType = 'website',
   noIndex = false,
   keywords = [],
@@ -122,8 +122,8 @@ export default function SEO({
   }
 
   // Default values
-  const defaultTitle = `${config.portal.name} | Community Powered ${config.lgu.name} Portal`;
-  const defaultDescription = `${config.portal.description} Access government services, stay updated with the latest news, and find information about ${config.lgu.fullName}.`;
+  const defaultTitle = `${config.portal.name} | ${config.lgu.fullName}`;
+  const defaultDescription = `${config.portal.description} Find university services, campus directory entries, and public information for ${config.lgu.fullName}.`;
   const defaultCanonical = location.pathname + location.search;
 
   useEffect(() => {

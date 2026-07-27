@@ -14,34 +14,34 @@ export default function GovernmentRootLayout() {
 
   const branches = [
     {
-      title: t('government.electedofficialsTitle', 'Elected Officials'),
+      title: t('government.electedofficialsTitle', 'University Officials'),
       description: t(
         'government.electedofficialsDescription',
-        'Meet your Mayor, Vice Mayor, and Councilors.'
+        'Meet university leadership and campus officials.'
       ),
       icon: UsersIcon,
       path: '/government/elected-officials',
       category: 'Leadership',
     },
     {
-      title: t('government.departmentsTitle', 'Departments'),
+      title: t('government.departmentsTitle', 'University Offices'),
       description: t(
         'government.departmentsDescription',
-        'Services and offices under the Executive branch.'
+        'Administrative offices and units across campus.'
       ),
       icon: Building2Icon,
       path: '/government/departments',
       category: 'Administrative',
     },
     {
-      title: t('government.barangaysTitle', 'Barangays'),
+      title: t('government.barangaysTitle', 'Campus Area Barangays'),
       description: t(
         'government.barangaysDescription',
-        'The 14 local component units of Los Baños.'
+        'Barangays around the UPLB campus in Los Baños.'
       ),
       icon: HomeIcon,
       path: '/government/barangays',
-      category: 'Local Units',
+      category: 'Local Area',
     },
   ];
 
@@ -49,8 +49,8 @@ export default function GovernmentRootLayout() {
     <div className='animate-in fade-in mx-auto max-w-7xl space-y-12 pb-20 duration-700 md:pb-32'>
       {/* 1. Unified Page Header */}
       <PageHero
-        title='Government'
-        description='Access information on elected leaders, municipal departments, and the 14 component barangays of Los Baños.'
+        title='Campus Directory'
+        description='University officials, offices, and barangays around the UPLB campus.'
       />
 
       {/* 2. Persistent Navigation (The Big 3) */}

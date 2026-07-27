@@ -13,6 +13,7 @@ import Footer from '@/components/layout/Footer';
 import Navbar from '@/components/layout/Navbar';
 import SEO from '@/components/layout/SEO';
 import ScrollToTop from '@/components/layout/ScrollToTop';
+import SkipLink from '@/components/layout/SkipLink';
 import Ticker from '@/components/ui/Ticker';
 
 import ContactUs from '@/pages/ContactUs';
@@ -94,10 +95,12 @@ function AppContent() {
   return (
     <div className='flex min-h-screen flex-col'>
       <SEO />
+      {!isAdminRoute && <SkipLink />}
       {!isAdminRoute && <Navbar />}
       {!isAdminRoute && <Ticker />}
       <ScrollToTop />
 
+      <main id='main-content' className='grow outline-none' tabIndex={-1}>
       <Routes>
         {/* Standard Global Pages */}
         <Route path='/' element={<Home />} />
@@ -203,6 +206,7 @@ function AppContent() {
         {/* Catch-all 404 */}
         <Route path='*' element={<NotFound />} />
       </Routes>
+      </main>
 
       {!isAdminRoute && <Footer />}
     </div>

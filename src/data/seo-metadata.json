@@ -1,62 +1,63 @@
 {
   "/": {
-    "title": "BetterLB.org | Municipality of Los Baños | Community Powered Government Portal",
-    "description": "Find important information about BetterLB.org through BetterLB.org, the Philippines\u2019 civic information portal."
+    "title": "UPLB Connect | University of the Philippines Los Baños",
+    "description": "Community-powered portal for UPLB. Find university services, campus directory, and public information."
   },
   "/about": {
-    "title": "BetterLB.org | Municipality of Los Baños | Community Powered Government Portal",
-    "description": "Learn more about BetterLB.org, the official community-powered portal promoting transparency and civic engagement in the Philippines."
+    "title": "About | UPLB Connect",
+    "description": "About UPLB Connect, a community-powered portal for the University of the Philippines Los Baños."
   },
   "/accessibility": {
-    "title": "Accessibility Statement | BetterLB.org | BetterLB.org",
-    "description": "Find important information about Accessibility Statement through BetterLB.org, the Philippines\u2019 civic information portal."
+    "title": "Accessibility Statement | UPLB Connect",
+    "description": "Accessibility statement for UPLB Connect, the community-powered portal for the University of the Philippines Los Baños."
   },
   "/data/forex": {
-    "title": "Forex: Currency Converter - BetterLB.org",
-    "description": "Find important information about Forex: Currency Converter through BetterLB.org, the Philippines\u2019 civic information portal."
+    "title": "Forex: Currency Converter - UPLB Connect",
+    "description": "Find important information about Forex: Currency Converter through UPLB Connect, the Philippines’ university information portal."
   },
   "/data/weather": {
-    "title": "BetterLB.org | Municipality of Los Baños | Community Powered Government Portal",
-    "description": "Find important information about BetterLB.org through BetterLB.org, the Philippines\u2019 civic information portal."
+    "title": "UPLB Connect | University of the Philippines Los Baños | Community Powered UPLB Portal",
+    "description": "Find important information about UPLB Connect through UPLB Connect, the Philippines’ university information portal."
   },
   "/flood-control-projects": {
-    "title": "Flood Control Projects in Philippines | BetterLB.org",
-    "description": "Find important information about Flood Control Projects in Philippines through BetterLB.org, the Philippines\u2019 civic information portal."
+    "title": "Flood Control Projects in Philippines | UPLB Connect",
+    "description": "Find important information about Flood Control Projects in Philippines through UPLB Connect, the Philippines’ university information portal."
   },
   "/flood-control-projects/contractors": {
-    "title": "Flood Control Project Contractors in Philippines | BetterLB.org",
-    "description": "Find important information about Flood Control Project Contractors in Philippines through BetterLB.org, the Philippines\u2019 civic information portal."
+    "title": "Flood Control Project Contractors in Philippines | UPLB Connect",
+    "description": "Find important information about Flood Control Project Contractors in Philippines through UPLB Connect, the Philippines’ university information portal."
   },
   "/flood-control-projects/map": {
-    "title": "Flood Control Projects Map in Philippines | BetterLB.org",
-    "description": "Find important information about Flood Control Projects Map in Philippines through BetterLB.org, the Philippines\u2019 civic information portal."
+    "title": "Flood Control Projects Map in Philippines | UPLB Connect",
+    "description": "Find important information about Flood Control Projects Map in Philippines through UPLB Connect, the Philippines’ university information portal."
   },
   "/flood-control-projects/table": {
-    "title": "Flood Control Projects Information in Philippines | BetterLB.org",
-    "description": "Find important information about Flood Control Projects Information in Philippines through BetterLB.org, the Philippines\u2019 civic information portal."
+    "title": "Flood Control Projects Information in Philippines | UPLB Connect",
+    "description": "Find important information about Flood Control Projects Information in Philippines through UPLB Connect, the Philippines’ university information portal."
   },
   "/government": {
-    "title": "The Philippine Government: Learn More - BetterLB.org",
-    "description": "Find important information about The Philippine Government: Learn More through BetterLB.org, the Philippines\u2019 civic information portal."
+    "title": "Campus Directory | UPLB Connect",
+    "description": "University officials, offices, and campus units at UPLB."
   },
   "/government/constitutional": {
-    "title": "Civil Service Commission (CSC) in Philippines | BetterLB.org",
-    "description": "Understand the Philippine Constitution\u2014its guiding principles, structure, and role in ensuring good governance at BetterLB.org."
+    "title": "Civil Service Commission (CSC) in Philippines | UPLB Connect",
+    "description": "Understand the Philippine Constitution: its guiding principles, structure, and role in ensuring good governance at UPLB Connect."
   },
   "/government/constitutional/civil-service-commission-csc": {
-    "title": "Civil Service Commission (CSC) in the Philippines | BetterLB.org",
-    "description": "Find important information about the Civil Service Commission (CSC) in the Philippines.  Contact information and more at BetterLB.org."
+    "title": "Civil Service Commission (CSC) in the Philippines | UPLB Connect",
+    "description": "Find important information about the Civil Service Commission (CSC) in the Philippines.  Contact information and more at UPLB Connect."
   },
   "/government/constitutional/goccs": {
-    "title": "Government-Owned and Controlled Corporations in Philippines - BetterLB.org",
-    "description": "Learn about the different Government-Owned and Controlled Corporations in the Philippines.  Contact information and more on BetterLB.org."
+    "title": "Government-Owned and Controlled Corporations in Philippines - UPLB Connect",
+    "description": "Learn about the different Government-Owned and Controlled Corporations in the Philippines.  Contact information and more on UPLB Connect."
   },
   "/government/constitutional/sucs": {
-    "title": "State Universities and Colleges in Philippines - BetterLB.org",
-    "description": "Learn about the different State Universities and Colleges in the Philippines.  Contact information and more on BetterLB.org."
+    "title": "State Universities and Colleges in Philippines - UPLB Connect",
+    "description": "Learn about the different State Universities and Colleges in the Philippines.  Contact information and more on UPLB Connect."
   },
   "/government/departments": {
-    "subject": "Government Departments in Philippines"
+    "title": "University Offices | UPLB Connect",
+    "description": "Administrative offices and units at UPLB."
   },
   "/government/departments/department-of-agrarian-reform": {
     "subject": "Department of Agrarian Reform in Philippines"
@@ -113,8 +114,8 @@
     "subject": "Department of Social Welfare and Development in Philippines"
   },
   "/government/departments/department-of-the-interior-and-local-government": {
-    "title": "Department of the Interior and Local Government in Philippines - BetterLB.org",
-    "description": "Find resources on local government units, responsibilities, and programs that connect communities across the Philippines on BetterLB.org."
+    "title": "Department of the Interior and Local Government in Philippines - UPLB Connect",
+    "description": "Find resources on local government units, responsibilities, and programs that connect communities across the Philippines on UPLB Connect."
   },
   "/government/departments/department-of-tourism": {
     "subject": "Department of Tourism in Philippines"
@@ -129,392 +130,267 @@
     "subject": "National Economic and Development Authority in Philippines"
   },
   "/government/diplomatic": {
-    "title": "Diplomatic Missions in the Philippines - BetterLB.org",
-    "description": "Find important information about Diplomatic Missions in the Philippines through BetterLB.org, the Philippines\u2019 civic information portal."
+    "title": "Diplomatic Missions in the Philippines - UPLB Connect",
+    "description": "Find important information about Diplomatic Missions in the Philippines through UPLB Connect, the Philippines’ university information portal."
   },
   "/government/diplomatic/consulates": {
-    "title": "Consulates in the Philippines - BetterLB.org",
-    "description": "Find important information about consulates in the Philippines through BetterLB.org, the Philippines\u2019 civic information portal."
+    "title": "Consulates in the Philippines - UPLB Connect",
+    "description": "Find important information about consulates in the Philippines through UPLB Connect, the Philippines’ university information portal."
   },
   "/government/diplomatic/missions": {
-    "title": "Diplomatic Missions in Philippines - BetterLB.org",
-    "description": "Find important information about the different Diplomatic Missions in Philippines through BetterLB.org, the Philippines\u2019 civic information portal."
+    "title": "Diplomatic Missions in Philippines - UPLB Connect",
+    "description": "Find important information about the different Diplomatic Missions in Philippines through UPLB Connect, the Philippines’ university information portal."
   },
   "/government/diplomatic/organizations": {
-    "title": "International Organizations in the Philippines - BetterLB.org",
-    "description": "Find important information about International Organizations in the Philippines through BetterLB.org, the Philippines\u2019 civic information portal."
+    "title": "International Organizations in the Philippines - UPLB Connect",
+    "description": "Find important information about International Organizations in the Philippines through UPLB Connect, the Philippines’ university information portal."
   },
   "/government/executive": {
-    "title": "Executive Branch in the Philippines: The President | BetterLB.org",
-    "description": "Explore the executive branch of the Philippines government\u2014its leaders, offices, and national duties at BetterLB.org."
+    "title": "Executive Branch in the Philippines: The President | UPLB Connect",
+    "description": "Explore the executive branch of the Philippines government: its leaders, offices, and national duties at UPLB Connect."
   },
   "/government/executive/office-of-the-president": {
-    "title": "Office of the President in the Philippines | BetterLB.org",
-    "description": "Explore information about the office of the President of the Philippines government\u2014its leaders, offices, and national duties at BetterLB.org."
+    "title": "Office of the President in the Philippines | UPLB Connect",
+    "description": "Explore information about the office of the President of the Philippines government: its leaders, offices, and national duties at UPLB Connect."
   },
   "/government/executive/office-of-the-vice-mayor": {
-    "title": "Office of the Vice Mayor in the Philippines - BetterLB.org",
-    "description": "Explore the executive branch of the Philippines government\u2014its leaders, offices, and national duties at BetterLB.org."
+    "title": "Office of the Vice Mayor in the Philippines - UPLB Connect",
+    "description": "Explore the executive branch of the Philippines government: its leaders, offices, and national duties at UPLB Connect."
   },
   "/government/executive/other-executive-offices": {
-    "title": "Other Executive Offices in the Philippines - BetterLB.org",
-    "description": "Explore information about other executive branches of the Philippines government\u2014its leaders, offices, and national duties at BetterLB.org."
+    "title": "Other Executive Offices in the Philippines - UPLB Connect",
+    "description": "Explore information about other executive branches of the Philippines government: its leaders, offices, and national duties at UPLB Connect."
   },
   "/government/executive/presidential-communications-office": {
-    "title": "Presidential Communications Offices in the Philippines - BetterLB.org",
-    "description": "Explore information about the Presidential communications offices  of the Philippines government\u2014its leaders, offices, and national duties at BetterLB.org."
+    "title": "Presidential Communications Offices in the Philippines - UPLB Connect",
+    "description": "Explore information about the Presidential communications offices  of the Philippines government: its leaders, offices, and national duties at UPLB Connect."
   },
   "/government/legislative": {
-    "title": "Legislative Branch of the Philippines - BetterLB.org",
-    "description": "Learn about the legislative branch of the Philippines, its key roles, members, and how it shapes national policies on BetterLB.org."
+    "title": "Legislative Branch of the Philippines - UPLB Connect",
+    "description": "Learn about the legislative branch of the Philippines, its key roles, members, and how it shapes national policies on UPLB Connect."
   },
   "/government/legislative/house-members": {
-    "title": "Legislative House Members in Philippines - BetterLB.org",
-    "description": "Learn about the legislative branch of the Philippines, its key roles, members, and how it shapes national policies on BetterLB.org."
+    "title": "Legislative House Members in Philippines - UPLB Connect",
+    "description": "Learn about the legislative branch of the Philippines, its key roles, members, and how it shapes national policies on UPLB Connect."
   },
   "/government/legislative/house-of-representatives-20th-congress": {
-    "title": "House of Representatives: 20th Congress in Philippines - BetterLB.org",
-    "description": "Learn about the legislative branch of the Philippines, its key roles, members, and how it shapes national policies on BetterLB.org."
+    "title": "House of Representatives: 20th Congress in Philippines - UPLB Connect",
+    "description": "Learn about the legislative branch of the Philippines, its key roles, members, and how it shapes national policies on UPLB Connect."
   },
   "/government/legislative/party-list-members": {
-    "title": "Legislative Party List Members in Philippines - BetterLB.org",
-    "description": "Learn about the legislative branch of the Philippines, its key roles, members, and how it shapes national policies on BetterLB.org."
+    "title": "Legislative Party List Members in Philippines - UPLB Connect",
+    "description": "Learn about the legislative branch of the Philippines, its key roles, members, and how it shapes national policies on UPLB Connect."
   },
   "/government/legislative/senate-committees": {
-    "title": "Senate Committees in Philippines - BetterLB.org",
-    "description": "Learn about the legislative branch of the Philippines, its key roles, members, and how it shapes national policies on BetterLB.org."
+    "title": "Senate Committees in Philippines - UPLB Connect",
+    "description": "Learn about the legislative branch of the Philippines, its key roles, members, and how it shapes national policies on UPLB Connect."
   },
   "/government/legislative/senate-of-the-philippines-20th-congress": {
-    "title": "Senate of the Philippines: 20th Congress in Philippines - BetterLB.org",
-    "description": "Learn about the legislative branch of the Philippines, its key roles, members, and how it shapes national policies on BetterLB.org."
+    "title": "Senate of the Philippines: 20th Congress in Philippines - UPLB Connect",
+    "description": "Learn about the legislative branch of the Philippines, its key roles, members, and how it shapes national policies on UPLB Connect."
   },
   "/government/local": {
-    "title": "Local Government Units in Philippines | BetterLB.org",
-    "description": "Find important information about Local Government Units in Philippines through BetterLB.org, the Philippines\u2019 civic information portal."
+    "title": "Local Government Units in Philippines | UPLB Connect",
+    "description": "Find important information about Local Government Units in Philippines through UPLB Connect, the Philippines’ university information portal."
   },
   "/government/local/bangsamoro-autonomous-region-in-muslim-mindanao": {
-    "title": "Mayor and Vice Mayors in Bangsamoro Mindinao Philippines | BetterLB.org",
-    "description": "Find important information about the Mayor and Vice Mayors in Bangsamoro Mindinao Philippines through BetterLB.org, the Philippines\u2019 civic information portal."
+    "title": "Mayor and Vice Mayors in Bangsamoro Mindinao Philippines | UPLB Connect",
+    "description": "Find important information about the Mayor and Vice Mayors in Bangsamoro Mindinao Philippines through UPLB Connect, the Philippines’ university information portal."
   },
   "/government/local/cordillera-administrative-region": {
-    "title": "Mayor and Vice Mayors in the Cordilleras Philippines | BetterLB.org",
-    "description": "Find important information about the Mayor and Vice Mayors in the Cordilleras Philippines through BetterLB.org, the Philippines\u2019 civic information portal."
+    "title": "Mayor and Vice Mayors in the Cordilleras Philippines | UPLB Connect",
+    "description": "Find important information about the Mayor and Vice Mayors in the Cordilleras Philippines through UPLB Connect, the Philippines’ university information portal."
   },
   "/government/local/mimaropa-region": {
-    "title": "Mayor and Vice Mayors in Mimaropa Region Philippines | BetterLB.org",
-    "description": "Find important information about the Mayor and Vice Mayors in Mimaropa Region Philippines through BetterLB.org, the Philippines\u2019 civic information portal."
+    "title": "Mayor and Vice Mayors in Mimaropa Region Philippines | UPLB Connect",
+    "description": "Find important information about the Mayor and Vice Mayors in Mimaropa Region Philippines through UPLB Connect, the Philippines’ university information portal."
   },
   "/government/local/national-capital-region": {
-    "title": "Mayor and Vice Mayors in the National Capital Region (NCR) Philippines | BetterLB.org",
-    "description": "Find important information about the Mayor and Vice Mayors in the National Capital Region (NCR) Philippines through BetterLB.org, the Philippines\u2019 civic information portal."
+    "title": "Mayor and Vice Mayors in the National Capital Region (NCR) Philippines | UPLB Connect",
+    "description": "Find important information about the Mayor and Vice Mayors in the National Capital Region (NCR) Philippines through UPLB Connect, the Philippines’ university information portal."
   },
   "/government/local/negros-island-region": {
-    "title": "Mayor and Vice Mayors in Negros Island Philippines | BetterLB.org",
-    "description": "Find important information about the Mayor and Vice Mayors in Negros Island Philippines through BetterLB.org, the Philippines\u2019 civic information portal."
+    "title": "Mayor and Vice Mayors in Negros Island Philippines | UPLB Connect",
+    "description": "Find important information about the Mayor and Vice Mayors in Negros Island Philippines through UPLB Connect, the Philippines’ university information portal."
   },
   "/government/local/region-i-ilocos-region": {
-    "title": "Mayor and Vice Mayors in Ilocos Philippines | BetterLB.org",
-    "description": "Find important information about the Mayor and Vice Mayors in Ilocos Philippines through BetterLB.org, the Philippines\u2019 civic information portal."
+    "title": "Mayor and Vice Mayors in Ilocos Philippines | UPLB Connect",
+    "description": "Find important information about the Mayor and Vice Mayors in Ilocos Philippines through UPLB Connect, the Philippines’ university information portal."
   },
   "/government/local/region-ii-cagayan-valley": {
-    "title": "Mayor and Vice Mayors in Cagayan Valley Philippines | BetterLB.org",
-    "description": "Find important information about the Mayor and Vice Mayors in Cagayan Valley Philippines through BetterLB.org, the Philippines\u2019 civic information portal."
+    "title": "Mayor and Vice Mayors in Cagayan Valley Philippines | UPLB Connect",
+    "description": "Find important information about the Mayor and Vice Mayors in Cagayan Valley Philippines through UPLB Connect, the Philippines’ university information portal."
   },
   "/government/local/region-iii-central-luzon": {
-    "title": "Mayor and Vice Mayors in Central Luzon Philippines | BetterLB.org",
-    "description": "Find important information about the Mayor and Vice Mayors in Central Luzon Philippines through BetterLB.org, the Philippines\u2019 civic information portal."
+    "title": "Mayor and Vice Mayors in Central Luzon Philippines | UPLB Connect",
+    "description": "Find important information about the Mayor and Vice Mayors in Central Luzon Philippines through UPLB Connect, the Philippines’ university information portal."
   },
   "/government/local/region-iva-calabarzon": {
-    "title": "Mayor and Vice Mayors in Calabarzon Philippines | BetterLB.org",
-    "description": "Find important information about the Mayor and Vice Mayors in Calabarzon Philippines through BetterLB.org, the Philippines\u2019 civic information portal."
+    "title": "Mayor and Vice Mayors in Calabarzon Philippines | UPLB Connect",
+    "description": "Find important information about the Mayor and Vice Mayors in Calabarzon Philippines through UPLB Connect, the Philippines’ university information portal."
   },
   "/government/local/region-ix-zamboanga-peninsula": {
-    "title": "Mayor and Vice Mayors in Zamboanga Peninsula Philippines | BetterLB.org",
-    "description": "Find important information about the Mayor and Vice Mayors in Zamboanga Peninsula Philippines through BetterLB.org, the Philippines\u2019 civic information portal."
+    "title": "Mayor and Vice Mayors in Zamboanga Peninsula Philippines | UPLB Connect",
+    "description": "Find important information about the Mayor and Vice Mayors in Zamboanga Peninsula Philippines through UPLB Connect, the Philippines’ university information portal."
   },
   "/government/local/region-v-bicol-region": {
-    "title": "Mayor and Vice Mayors in Bicol Philippines | BetterLB.org",
-    "description": "Find important information about the Mayor and Vice Mayors in Bicol Philippines through BetterLB.org, the Philippines\u2019 civic information portal."
+    "title": "Mayor and Vice Mayors in Bicol Philippines | UPLB Connect",
+    "description": "Find important information about the Mayor and Vice Mayors in Bicol Philippines through UPLB Connect, the Philippines’ university information portal."
   },
   "/government/local/region-vi-western-visayas": {
-    "title": "Mayor and Vice Mayors in Western Visayas Philippines | BetterLB.org",
-    "description": "Find important information about the Mayor and Vice Mayors in Western Visayas Philippines through BetterLB.org, the Philippines\u2019 civic information portal."
+    "title": "Mayor and Vice Mayors in Western Visayas Philippines | UPLB Connect",
+    "description": "Find important information about the Mayor and Vice Mayors in Western Visayas Philippines through UPLB Connect, the Philippines’ university information portal."
   },
   "/government/local/region-vii-central-visayas": {
-    "title": "Mayor and Vice Mayors in Region VII: Central Visayas Philippines | BetterLB.org",
-    "description": "Find important information about the Mayor and Vice Mayors in Central Visayas Philippines through BetterLB.org, the Philippines\u2019 civic information portal."
+    "title": "Mayor and Vice Mayors in Region VII: Central Visayas Philippines | UPLB Connect",
+    "description": "Find important information about the Mayor and Vice Mayors in Central Visayas Philippines through UPLB Connect, the Philippines’ university information portal."
   },
   "/government/local/region-viii-eastern-visayas": {
-    "title": "Mayor and Vice Mayors in Eastern Visayas Philippines | BetterLB.org",
-    "description": "Find important information about the Mayor and Vice Mayors in Eastern Visayas Philippines through BetterLB.org, the Philippines\u2019 civic information portal."
+    "title": "Mayor and Vice Mayors in Eastern Visayas Philippines | UPLB Connect",
+    "description": "Find important information about the Mayor and Vice Mayors in Eastern Visayas Philippines through UPLB Connect, the Philippines’ university information portal."
   },
   "/government/local/region-x-northern-mindanao": {
-    "title": "Mayor and Vice Mayors in Northern Mindinao Philippines | BetterLB.org",
-    "description": "Find important information about the Mayor and Vice Mayors in Northern Mindinao Philippines through BetterLB.org, the Philippines\u2019 civic information portal."
+    "title": "Mayor and Vice Mayors in Northern Mindinao Philippines | UPLB Connect",
+    "description": "Find important information about the Mayor and Vice Mayors in Northern Mindinao Philippines through UPLB Connect, the Philippines’ university information portal."
   },
   "/government/local/region-xi-davao-region": {
-    "title": "Mayor and Vice Mayors in Davao Philippines | BetterLB.org",
-    "description": "Find important information about the Mayor and Vice Mayors in Davao Philippines through BetterLB.org, the Philippines\u2019 civic information portal."
+    "title": "Mayor and Vice Mayors in Davao Philippines | UPLB Connect",
+    "description": "Find important information about the Mayor and Vice Mayors in Davao Philippines through UPLB Connect, the Philippines’ university information portal."
   },
   "/government/local/region-xii-soccsksargen": {
-    "title": "Mayor and Vice Mayors in Soccsksargen Philippines | BetterLB.org",
-    "description": "Find important information about the Mayor and Vice Mayors in Soccsksargen Philippines through BetterLB.org, the Philippines\u2019 civic information portal."
+    "title": "Mayor and Vice Mayors in Soccsksargen Philippines | UPLB Connect",
+    "description": "Find important information about the Mayor and Vice Mayors in Soccsksargen Philippines through UPLB Connect, the Philippines’ university information portal."
   },
   "/government/local/region-xiiicaraga": {
-    "title": "Mayor and Vice Mayors in Caraga Philippines | BetterLB.org",
-    "description": "Find important information about the Mayor and Vice Mayors in Caraga Philippines through BetterLB.org, the Philippines\u2019 civic information portal."
+    "title": "Mayor and Vice Mayors in Caraga Philippines | UPLB Connect",
+    "description": "Find important information about the Mayor and Vice Mayors in Caraga Philippines through UPLB Connect, the Philippines’ university information portal."
   },
   "/government/local/special-geographic-area": {
-    "title": "Special Geographic Area - Local Government Units | BetterLB.org",
-    "description": "Find important information about the Mayor and Vice Mayors in other areas of the Philippines through BetterLB.org, the Philippines\u2019 civic information portal."
+    "title": "Special Geographic Area - Local Government Units | UPLB Connect",
+    "description": "Find important information about the Mayor and Vice Mayors in other areas of the Philippines through UPLB Connect, the Philippines’ university information portal."
   },
   "/government/salary-grade": {
-    "title": "Government Salary - BetterLB.org",
-    "description": "Find important information about Government Salary through BetterLB.org, the Philippines\u2019 civic information portal."
+    "title": "Government Salary - UPLB Connect",
+    "description": "Find important information about Government Salary through UPLB Connect, the Philippines’ university information portal."
   },
   "/ideas": {
-    "title": "Project Ideas | BetterLB.org",
-    "description": "Find important information about Project Ideas through BetterLB.org, the Philippines\u2019 civic information portal."
+    "title": "Project Ideas | UPLB Connect",
+    "description": "Find important information about Project Ideas through UPLB Connect, the Philippines’ university information portal."
   },
   "/not-found": {
-    "title": "Page Not Found! | BetterLB.org",
-    "description": "Find important information about Page Not Found! through BetterLB.org, the Philippines\u2019 civic information portal."
+    "title": "Page Not Found! | UPLB Connect",
+    "description": "Find important information about Page Not Found! through UPLB Connect, the Philippines’ university information portal."
   },
   "/philippines": {
-    "title": "BetterLB.org | Municipality of Los Baños | Community Powered Government Portal",
-    "description": "Find important information about BetterLB.org through BetterLB.org, the Philippines\u2019 civic information portal."
+    "title": "UPLB Connect | University of the Philippines Los Baños | Community Powered UPLB Portal",
+    "description": "Find important information about UPLB Connect through UPLB Connect, the Philippines’ university information portal."
   },
   "/philippines/about": {
-    "title": "BetterLB.org | Municipality of Los Baños | Community Powered Government Portal",
-    "description": "Learn more about BetterLB.org, the official community-powered portal promoting transparency and civic engagement in the Philippines."
+    "title": "UPLB Connect | University of the Philippines Los Baños | Community Powered UPLB Portal",
+    "description": "Learn more about UPLB Connect, the official community-powered portal for the University of the Philippines Los Baños community."
   },
   "/philippines/culture": {
-    "title": "BetterLB.org | Municipality of Los Baños | Community Powered Government Portal",
-    "description": "Find important information about BetterLB.org through BetterLB.org, the Philippines\u2019 civic information portal."
+    "title": "UPLB Connect | University of the Philippines Los Baños | Community Powered UPLB Portal",
+    "description": "Find important information about UPLB Connect through UPLB Connect, the Philippines’ university information portal."
   },
   "/philippines/history": {
-    "title": "BetterLB.org | Municipality of Los Baños | Community Powered Government Portal",
-    "description": "Find important information about BetterLB.org through BetterLB.org, the Philippines\u2019 civic information portal."
+    "title": "UPLB Connect | University of the Philippines Los Baños | Community Powered UPLB Portal",
+    "description": "Find important information about UPLB Connect through UPLB Connect, the Philippines’ university information portal."
   },
   "/philippines/hotlines": {
-    "title": "Philippines Emergency Hotlines - BetterLB.org",
-    "description": "Find important information about Philippines Emergency Hotlines through BetterLB.org, the Philippines\u2019 civic information portal."
+    "title": "Philippines Emergency Hotlines - UPLB Connect",
+    "description": "Find important information about Philippines Emergency Hotlines through UPLB Connect, the Philippines’ university information portal."
   },
   "/philippines/map": {
-    "title": "Philippines Map - BetterLB.org",
-    "description": "Find important information about Philippines Map through BetterLB.org, the Philippines\u2019 civic information portal."
+    "title": "Philippines Map - UPLB Connect",
+    "description": "Find important information about Philippines Map through UPLB Connect, the Philippines’ university information portal."
   },
   "/philippines/regions": {
-    "title": "Local Government Units (LGUs) in Philippines | BetterLB.org",
-    "description": "Find important information about Local Government Units (LGUs) in Philippines through BetterLB.org, the Philippines\u2019 civic information portal."
+    "title": "Local Government Units (LGUs) in Philippines | UPLB Connect",
+    "description": "Find important information about Local Government Units (LGUs) in Philippines through UPLB Connect, the Philippines’ university information portal."
   },
   "/services": {
-    "_default": {
-      "subject": "Government Services in Philippines"
-    },
-    "category=business-trade": {
-      "subject": "Business and Trade Services in Philippines"
-    },
-    "category=business-trade&subcategory=business-copyright-trademark-patent": {
-      "subject": "Business and Trade – Business Copyright, Trademark and Patent"
-    },
-    "category=business-trade&subcategory=business-registration": {
-      "subject": "Business and Trade Services in Philippines – Business Registration, Certificates and Compliance"
-    },
-    "category=business-trade&subcategory=complaints": {
-      "subject": "Business and Trade Government Services in Philippines"
-    },
-    "category=certificates-ids": {
-      "subject": "Certificates and ID Services in Philippines"
-    },
-    "category=certificates-ids&subcategory=certificates": {
-      "subject": "Certificate Services in Philippines"
-    },
-    "category=certificates-ids&subcategory=clearances": {
-      "subject": "Government Certificates and ID Clearances in Philippines"
-    },
-    "category=certificates-ids&subcategory=id": {
-      "subject": "ID Services in Philippines"
-    },
-    "category=contributions": {
-      "subject": "Contribution Services in Philippines"
-    },
-    "category=contributions&subcategory=benefits-registration": {
-      "subject": "Contributions and Benefits Registration Services in Philippines"
-    },
-    "category=contributions&subcategory=salary-loans": {
-      "subject": "Government Contribution Salary Loans in Philippines"
-    },
-    "category=disaster-weather": {
-      "subject": "Disaster and Weather Services in Philippines"
-    },
-    "category=disaster-weather&subcategory=disaster-prone-areas": {
-      "subject": "Government Disaster and Weather Services"
-    },
-    "category=disaster-weather&subcategory=weather": {
-      "subject": "Disaster and Weather Services in Philippines – Weather"
-    },
-    "category=education": {
-      "subject": "Education Services in Philippines"
-    },
-    "category=education&subcategory=financial-assistance": {
-      "subject": "Education Financial Assistance Services in Philippines"
-    },
-    "category=education&subcategory=professionals": {
-      "subject": "Government Education Services in Philippines"
-    },
-    "category=education&subcategory=research-proposal": {
-      "subject": "Education, Research and Proposal Services in Philippines"
-    },
-    "category=employment": {
-      "subject": "Employment Services in Philippines"
-    },
-    "category=employment&subcategory=professionals": {
-      "subject": "Government Employment Services"
-    },
-    "category=employment&subcategory=salary-loans": {
-      "subject": "Government Employment Salary Loans in Philippines"
-    },
-    "category=employment&subcategory=union-association": {
-      "subject": "Employment Union Association Services in Philippines"
-    },
-    "category=health": {
-      "subject": "Government Health Services in Philippines"
-    },
-    "category=health&subcategory=financial-assistance": {
-      "subject": "Government Financial Assistance Services in Philippines"
-    },
-    "category=health&subcategory=health-programs": {
-      "title": "Government Health Programs in Philippines | BetterLB.org",
-      "description": "Explore government programs, public initiatives, and opportunities designed to support citizens and communities nationwide."
-    },
-    "category=health&subcategory=health-research": {
-      "subject": "Government Health Research Services in Philippines"
-    },
-    "category=housing": {
-      "subject": "Government Housing Services in Philippines"
-    },
-    "category=housing&subcategory=housing-loans": {
-      "subject": "Housing Loan Services in Philippines"
-    },
-    "category=housing&subcategory=land-titles": {
-      "subject": "Housing and Land Title Services in Philippines"
-    },
-    "category=passport-travel": {
-      "subject": "Passport and Travel Services in Philippines"
-    },
-    "category=passport-travel&subcategory=travel": {
-      "subject": "Government Passport and Travel Services in Philippines"
-    },
-    "category=passport-travel&subcategory=visa-citizenship": {
-      "title": "Passport and Travel: Visa and Citizenship Services in Philippines | BetterLB.org",
-      "description": "Access clear information about Philippine visa requirements, travel policies, and immigration services at BetterLB.org."
-    },
-    "category=social-services": {
-      "subject": "Social Services in Philippines"
-    },
-    "category=social-services&subcategory=benefits-registration": {
-      "subject": "Social Services: Benefits Registration in Philippines"
-    },
-    "category=social-services&subcategory=file-complaints": {
-      "title": "Social Services: File Complaints in Philippines | BetterLB.org",
-      "description": "Find important information about Social Services: File Complaints in Philippines through BetterLB.org, the Philippines\u2019 civic information portal."
-    },
-    "category=social-services&subcategory=salary-loans": {
-      "title": "Social Service Salary Loans in Philippines | BetterLB.org",
-      "description": "Find important information about Social Service Salary Loans in Philippines through BetterLB.org, the Philippines\u2019 civic information portal."
-    },
-    "category=tax": {
-      "title": "Government Tax Services in Philippines | BetterLB.org",
-      "description": "Find important information about Government Tax Services in Philippines through BetterLB.org, the Philippines\u2019 civic information portal."
-    },
-    "category=tax&subcategory=calculator": {
-      "title": "Tax Calculators in Philippines | BetterLB.org",
-      "description": "Find important information about Tax Calculators in Philippines through BetterLB.org, the Philippines\u2019 civic information portal."
-    },
-    "category=tax&subcategory=certificates": {
-      "title": "Tax Certificate Services in Philippines | BetterLB.org",
-      "description": "Find important information about Tax Certificate Services in Philippines through BetterLB.org, the Philippines\u2019 civic information portal."
-    },
-    "category=tax&subcategory=register": {
-      "title": "Tax Registration Services in Philippines | BetterLB.org",
-      "description": "Find important information about Tax Registration Services in Philippines through BetterLB.org, the Philippines\u2019 civic information portal."
-    },
-    "category=transport-driving": {
-      "title": "Government Transport and Driving Services in Philippines - BetterLB.org",
-      "description": "Find important information about Government Transport and Driving Services in Philippines through BetterLB.org, the Philippines\u2019 civic information portal."
-    },
-    "category=transport-driving&subcategory=financial-assistance": {
-      "title": "Transport and Driving Financial Assistance Services in Philippines | BetterLB.org",
-      "description": "Find important information about Transport and Driving Financial Assistance Services in Philippines through BetterLB.org, the Philippines\u2019 civic information portal."
-    },
-    "category=transport-driving&subcategory=license": {
-      "title": "Transport and Driving License Services in Philippines | BetterLB.org",
-      "description": "Find important information about Transport and Driving License Services in Philippines through BetterLB.org, the Philippines\u2019 civic information portal."
-    },
-    "category=transport-driving&subcategory=transport-complaints": {
-      "title": "Transport and Driving Complaints Services in Philippines | BetterLB.org",
-      "description": "Find important information about Transport and Driving Complaints Services in Philippines through BetterLB.org, the Philippines\u2019 civic information portal."
-    }
+    "title": "University Services | UPLB Connect",
+    "description": "Browse UPLB services for enrollment, academic records, campus offices, and student support."
   },
   "/services/websites": {
-    "title": "Government Websites Directory - BetterLB.org",
-    "description": "Find important information about Government Websites Directory through BetterLB.org, the Philippines\u2019 civic information portal."
+    "title": "Government Websites Directory - UPLB Connect",
+    "description": "Find important information about Government Websites Directory through UPLB Connect, the Philippines’ university information portal."
   },
   "/terms-of-service": {
-    "title": "Terms of Service | BetterLB.org",
-    "description": "Find important information about Terms of Service through BetterLB.org, the Philippines\u2019 civic information portal."
+    "title": "Terms of Service | UPLB Connect",
+    "description": "Find important information about Terms of Service through UPLB Connect, the Philippines’ university information portal."
   },
   "/travel": {
-    "title": "BetterLB.org | Municipality of Los Baños | Community Powered Government Portal",
-    "description": "Find important information about BetterLB.org through BetterLB.org, the Philippines\u2019 civic information portal."
+    "title": "UPLB Connect | University of the Philippines Los Baños | Community Powered UPLB Portal",
+    "description": "Find important information about UPLB Connect through UPLB Connect, the Philippines’ university information portal."
   },
   "/travel/communicating": {
-    "title": "Travel Phrasebook in the Philippines - BetterLB.org",
-    "description": "Find important information about Travel Phrasebook in the Philippines through BetterLB.org, the Philippines\u2019 civic information portal."
+    "title": "Travel Phrasebook in the Philippines - UPLB Connect",
+    "description": "Find important information about Travel Phrasebook in the Philippines through UPLB Connect, the Philippines’ university information portal."
   },
   "/travel/visa": {
-    "title": "Visa Requirements by Country - BetterLB.org",
-    "description": "Access clear information about Philippine visa requirements, travel policies, and immigration services at BetterLB.org."
+    "title": "Visa Requirements by Country - UPLB Connect",
+    "description": "Access clear information about Philippine visa requirements, travel policies, and immigration services at UPLB Connect."
   },
   "/travel/visa-types": {
-    "title": "Travel: Visa Types - BetterLB.org",
-    "description": "Access clear information about Philippine visa requirements, travel policies, and immigration services at BetterLB.org."
+    "title": "Travel: Visa Types - UPLB Connect",
+    "description": "Access clear information about Philippine visa requirements, travel policies, and immigration services at UPLB Connect."
   },
   "/travel/visa-types/9a": {
-    "title": "Non Immigrant Visa: Temporary Visitor in the Philippines - BetterLB.org",
-    "description": "Access clear information about temporary visa requirements, travel policies, and non-immigration services in the Philippines at BetterLB.org."
+    "title": "Non Immigrant Visa: Temporary Visitor in the Philippines - UPLB Connect",
+    "description": "Access clear information about temporary visa requirements, travel policies, and non-immigration services in the Philippines at UPLB Connect."
   },
   "/travel/visa-types/9b": {
-    "title": "Non Immigrant Visa: Treaty Trader or Treaty Investor in the Philippines - BetterLB.org",
-    "description": "Access clear information about treaty trader or treaty investor visa requirements, travel policies, and non-immigration services in the Philippines at BetterLB.org."
+    "title": "Non Immigrant Visa: Treaty Trader or Treaty Investor in the Philippines - UPLB Connect",
+    "description": "Access clear information about treaty trader or treaty investor visa requirements, travel policies, and non-immigration services in the Philippines at UPLB Connect."
   },
   "/travel/visa-types/9c": {
-    "title": "Non Immigrant Visa: Seaman in the Philippines - BetterLB.org",
-    "description": "Access clear information about seaman visa requirements, travel policies, and non-immigration services in the Philippines at BetterLB.org."
+    "title": "Non Immigrant Visa: Seaman in the Philippines - UPLB Connect",
+    "description": "Access clear information about seaman visa requirements, travel policies, and non-immigration services in the Philippines at UPLB Connect."
   },
   "/travel/visa-types/9d": {
-    "title": "Non Immigrant Visa: Treaty Trader or Treaty Investor in Philippines - BetterLB.org",
-    "description": "Access clear information about treaty trader or treaty investor visa requirements, travel policies, and non-immigration services in the Philippines at BetterLB.org."
+    "title": "Non Immigrant Visa: Treaty Trader or Treaty Investor in Philippines - UPLB Connect",
+    "description": "Access clear information about treaty trader or treaty investor visa requirements, travel policies, and non-immigration services in the Philippines at UPLB Connect."
   },
   "/travel/visa-types/9e": {
-    "title": "Non Immigrant Visa: Accredited Official of Foreign Government in Philippines - BetterLB.org",
-    "description": "Access clear information about the accredited official of foreign government visa requirements, travel policies, and non-immigration services in the Philippines at BetterLB.org."
+    "title": "Non Immigrant Visa: Accredited Official of Foreign Government in Philippines - UPLB Connect",
+    "description": "Access clear information about the accredited official of foreign government visa requirements, travel policies, and non-immigration services in the Philippines at UPLB Connect."
   },
   "/travel/visa-types/9f": {
-    "title": "Non Immigrant Visa: Student in the Philippines - BetterLB.org",
-    "description": "Access clear information about the student visa requirements, travel policies, and non-immigration services in the Philippines at BetterLB.org."
+    "title": "Non Immigrant Visa: Student in the Philippines - UPLB Connect",
+    "description": "Access clear information about the student visa requirements, travel policies, and non-immigration services in the Philippines at UPLB Connect."
   },
   "/travel/visa-types/9g": {
-    "title": "Non Immigrant Visa: Pre-arranged Employment in the Philippines - BetterLB.org",
-    "description": "Access clear information about pre-arranged employment visa requirements, travel policies, and non-immigration services in the Philippines at BetterLB.org."
+    "title": "Non Immigrant Visa: Pre-arranged Employment in the Philippines - UPLB Connect",
+    "description": "Access clear information about pre-arranged employment visa requirements, travel policies, and non-immigration services in the Philippines at UPLB Connect."
   },
   "/travel/visa-types/swp-c": {
-    "title": "Special Work Permit (Commercial) in Philippines - Travel Visa Types - BetterLB.org",
-    "description": "Access clear information about Philippine visa requirements, travel policies, and immigration services at BetterLB.org."
+    "title": "Special Work Permit (Commercial) in Philippines - Travel Visa Types - UPLB Connect",
+    "description": "Access clear information about Philippine visa requirements, travel policies, and immigration services at UPLB Connect."
   },
   "/travel/visa-types/trv": {
-    "title": "Non Immigrant Visa: Temporary Resident in the Philippines - BetterLB.org",
-    "description": "Access clear information about temporary resident visa requirements, travel policies, and non-immigration services in the Philippines at BetterLB.org."
+    "title": "Non Immigrant Visa: Temporary Resident in the Philippines - UPLB Connect",
+    "description": "Access clear information about temporary resident visa requirements, travel policies, and non-immigration services in the Philippines at UPLB Connect."
+  },
+  "/government/elected-officials": {
+    "title": "University Officials | UPLB Connect",
+    "description": "Leadership and officials of the University of the Philippines Los Baños."
+  },
+  "/government/barangays": {
+    "title": "Campus Area Barangays | UPLB Connect",
+    "description": "Barangays around the UPLB campus in Los Baños, Laguna."
+  },
+  "/statistics": {
+    "title": "Campus Data | UPLB Connect",
+    "description": "Demographic and public data relevant to the UPLB community."
+  },
+  "/transparency": {
+    "title": "Transparency | UPLB Connect",
+    "description": "Public procurement, infrastructure, and financial information related to UPLB."
+  },
+  "/search": {
+    "title": "Search | UPLB Connect",
+    "description": "Search university services and campus information on UPLB Connect."
   }
 }

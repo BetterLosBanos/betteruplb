@@ -17,13 +17,17 @@
     "title": "Pinakabagong Balita at Updates"
   },
   "footer": {
-    "copyright": "2025 BetterUP.org - Lahat ng nilalaman ay public domain maliban kung iba ang nakasaad."
+    "copyright": "2025 UPLB Connect - Lahat ng nilalaman ay public domain maliban kung iba ang nakasaad."
   },
   "navbar": {
     "philippines": "Pilipinas",
     "services": "Mga Serbisyo",
+    "campus": "Kampus",
+    "campus data": "Datos ng Kampus",
     "travel": "Paglalakbay",
-    "government": "Unibersidad",
+    "government": "Kampus",
+    "statistics": "Datos ng Kampus",
+    "transparency": "Transparency",
     "flood control projects": "Mga Proyekto sa Pagkontrol ng Baha",
     "openlgu": "OpenLGU"
   },
@@ -34,8 +38,8 @@
     "executiveDescription": "Pinangungunahan ng Kansilor, responsable sa pagpapatupad ng mga patakaran ng unibersidad, mga programa, at mga gabay.",
     "legislativeTitle": "Akademikong Senado",
     "legislativeDescription": "Binubuo ng mga kinatawan ng fakulti at mga administrador, responsable sa mga akademikong patakaran at kurikulum.",
-    "barangaysTitle": "Mga Kolehiyo at Dormitoryo",
-    "barangaysDescription": "Mga akademikong kolehiyo at residentyal na yunit sa loob ng unibersidad, pinangungunahan ng mga dekano at direktor na nangangasiwa ng mga akademikong serbisyo at serbisyo ng estudyante.",
+    "barangaysTitle": "Mga Barangay sa Paligid ng Kampus",
+    "barangaysDescription": "Mga barangay sa paligid ng kampus ng UPLB sa Los Baños: kapaki-pakinabang para sa tirahan, biyahe, at lokal na serbisyo.",
     "departmentsTitle": "Mga Kagawaran ng Unibersidad",
     "departmentsDescription": "Mga administratibong kagawaran at opisina na responsable sa mga partikular na lugar ng operasyon ng unibersidad.",
     "electedofficialsTitle": "Mga Opisyal ng Unibersidad",

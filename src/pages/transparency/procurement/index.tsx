@@ -187,7 +187,7 @@ export default function ProcurementPage() {
     <div className='animate-in fade-in mx-auto max-w-full space-y-8 px-4 pb-20 duration-500 md:px-8'>
       <ModuleHeader
         title='Procurement Transparency'
-        description='Real-time database of bids and awards from the Municipality of Los Baños.'
+        description='Bids and awards related to the University of the Philippines Los Baños.'
       >
         <div className='flex w-full flex-col items-center gap-4 md:w-auto md:flex-row'>
           <SearchInput

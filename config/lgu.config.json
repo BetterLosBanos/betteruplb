@@ -8,7 +8,7 @@
     "region": "CALABARZON",
     "regionCode": "IV-A",
     "type": "university",
-    "logoPath": "/logos/png/betteruplb-maroon.png",
+    "logoPath": "/logos/svg/uplb-connect-icon.svg",
     "officialWebsite": "https://uplb.edu.ph",
     "provinceWebsite": "https://laguna.gov.ph"
   },
@@ -19,10 +19,10 @@
     "tagline": "Community Powered UPLB Portal",
     "description": "Community-powered portal for the University of the Philippines Los Baños.",
     "brandColor": "#800000",
-    "navbarTagline": "A Community-run portal for the University of the Philippines Los Baños",
+    "navbarTagline": "Community-run portal for the University of the Philippines Los Baños",
     "footerBrandName": "UPLB Connect",
-    "footerTagline": "Community Civic Portal",
-    "logoWhitePath": "/logos/webp/betteruplb-white-outline.webp"
+    "footerTagline": "Community University Portal",
+    "logoWhitePath": "/logos/svg/uplb-connect-icon.svg"
   },
   "location": {
     "coordinates": {
